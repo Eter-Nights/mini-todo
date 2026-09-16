@@ -1,1 +1,4 @@
 /target
+
+# mini-todo 运行时数据（存于当前工作目录）
+todos.json
